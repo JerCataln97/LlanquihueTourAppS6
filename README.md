@@ -5,6 +5,7 @@
 
 - Nombre completo: Jeremy Daniel Catalan Boisier
 - Carrera: Analista Programador Computacional
+  
 📘 Descripción general del sistema
 
 - Este proyecto corresponde a la evaluación formativa 4 de la asignatura Desarrollo Orientado a Objetos I.
